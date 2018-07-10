@@ -1,3 +1,3 @@
 小菠菜的爬虫之路
 
-login_with_cookie: 模拟登陆强制将访问的cookie记录下来并提交给服务器
+login_with_cookie: 将登录表单中的隐藏域和cookie回传给服务器，完成登陆
